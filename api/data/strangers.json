@@ -1,0 +1,158 @@
+{
+  "data": [
+      {
+        "id": "1",
+        "name": "Eleven",
+        "fullName": "Jane Ives Hopper",
+        "actor": "Millie Bobby Brown",
+        "thumb": "https://upload.wikimedia.org/wikipedia/pt/5/52/Eleven_%28Stranger_Things%29.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Billy",
+        "fullName": "Billy Hargrove",
+        "actor": "Dacre Montgomery",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/6/60/S3Billy.jpg/revision/latest?cb=20190720004254"
+      },
+      {
+        "id": "3",
+        "name": "Mike",
+        "fullName": "Michael Wheeler",
+        "actor": "Finn Wolfhard",
+        "thumb": "https://i.pinimg.com/736x/88/2e/8d/882e8d20a64c9f08aadd09353e1c073d.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Max",
+        "fullName": "Maxine Mayfield",
+        "actor": "Sadie Sink",
+        "thumb": "https://pbs.twimg.com/media/Ecri1ceWoAUXPue.png"
+      },
+      {
+        "id": "5",
+        "name": "Dustin",
+        "fullName": "Dustin Henderson",
+        "actor": "Gaten Matarazzo",
+        "thumb": "https://3.bp.blogspot.com/-YXLSaDai7wA/V9hFiVfz2_I/AAAAAAAAD0k/WI8d8dhhKN8u43YXysiohLmVAgtBL9pgQCLcB/s1600/gaten_matarazzo_netflix_stranger_things.png"
+      },
+      {
+        "id": "6",
+        "name": "Nancy",
+        "fullName": "Nancy Wheeler",
+        "actor": "Natalia Dyer",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/6/64/Nanccy.png/revision/latest?cb=20200810213319&path-prefix=pt-br"
+      },
+      {
+        "id": "7",
+        "name": "Steve",
+        "fullName": "Steve Harrington",
+        "actor": "Joe Keery",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/1/12/Steve_S3.jpg/revision/latest/top-crop/width/360/height/450?cb=20200517182841&path-prefix=pt-br"
+      },
+      {
+        "id": "8",
+        "name": "Will",
+        "fullName": "Will Byers",
+        "actor": "Noah Schnapp",
+        "thumb": "https://i.pinimg.com/originals/58/60/44/586044983da8333dd6a84fe58801fb53.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Jim",
+        "fullName": "Jim Hopper",
+        "actor": "David Harbour",
+        "thumb": "https://upload.wikimedia.org/wikipedia/en/0/08/JimHopperST.png"
+      },
+      {
+        "id": "10",
+        "name": "Robin",
+        "fullName": "Robin",
+        "actor": "Maya Hawke",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/f/fc/Robin_S3.png/revision/latest?cb=20200517171649&path-prefix=pt-br"
+      },
+      {
+        "id": "11",
+        "name": "Jonathan",
+        "fullName": "Jonathan Byers",
+        "actor": "Charlie Heaton",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/8/8e/Jonathan_S3.png/revision/latest?cb=20200915033452"
+      },
+      {
+        "id": "12",
+        "name": "Joyce",
+        "fullName": "Joyce Byers",
+        "actor": "Winona Ryder",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/7/70/Joyce_S2.png/revision/latest?cb=20200501182443&path-prefix=pt-br"
+      },
+      {
+        "id": "13",
+        "name": "Barbara",
+        "fullName": "Barbara Holland",
+        "actor": "Shannon Purser",
+        "thumb": "https://i.pinimg.com/originals/28/96/74/2896746fcf3bb8bf27f3fa7baf8c1dc9.jpg"
+      },
+      {
+        "id": "14",
+        "name": "Alexei",
+        "fullName": "Dr. Alexei",
+        "actor": "Alec Utgoff",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/a/ad/Alexei.JPG/revision/latest?cb=20190705023926"
+      },
+      {
+        "id": "15",
+        "name": "Suzie",
+        "fullName": "Suzie",
+        "actor": "Gabriella Pizzolo",
+        "thumb": "http://pm1.narvii.com/7367/92242d1cc39f368700ea1057a5ed0a7aa78d3a06r1-350-350v2_uhq.jpg"
+      },
+      {
+        "id": "16",
+        "name": "Lucas",
+        "fullName": "Lucas Sinclair",
+        "actor": "Caleb McLaughlin",
+        "thumb": "https://i.pinimg.com/736x/5c/0c/cf/5c0ccf9dd3a3580ef7ced01bfffbcfd3.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Bob",
+        "fullName": "Bob Newby",
+        "actor": "Sean Astin",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/8/81/Bob_Newby.png/revision/latest?cb=20171028184324&path-prefix=pt-br"
+      },
+      {
+        "id": "18",
+        "name": "Karen",
+        "fullName": "Karen Wheeler",
+        "actor": "Cara Buono",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/1/19/Karen_003.png/revision/latest?cb=20210423031048&path-prefix=pt-br"
+      },
+      {
+        "id": "19",
+        "name": "Erica",
+        "fullName": "Erica Sinclair",
+        "actor": "Priah Ferguson",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/c/c6/3%C2%BA_Temporada_.jpg/revision/latest?cb=20200702173557&path-prefix=pt-br"
+      },
+      {
+        "id": "20",
+        "name": "Dr. Martin Brenner",
+        "fullName": "Dr. Martin Brenner",
+        "actor": "Matthew Modine",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/4/40/Martin_Brenner_001.png/revision/latest?cb=20160818154124&path-prefix=pt-br"
+      },
+      {
+        "id": "21",
+        "name": "Bauman",
+        "fullName": "Murray Bauman",
+        "actor": "Brett Gelman",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/d/dd/Murray2.jpg/revision/latest?cb=20201103150557"
+      },
+      {
+        "id": "22",
+        "name": "Mr. Clarke",
+        "fullName": "Mr. Clarke",
+        "actor": "Randall P. Havens",
+        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a1/S03E02-Scott_Clarke.jpg/revision/latest?cb=20190811042348"
+      }
+    ]
+}

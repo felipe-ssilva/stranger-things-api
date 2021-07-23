@@ -1,0 +1,5 @@
+cloudinary.config({ 
+  cloud_name: 'trig-digital', 
+  api_key: '658986754289482', 
+  api_secret: '9RqR8TlG3u0JLH3HZZ7qp4y5AQM' 
+});
