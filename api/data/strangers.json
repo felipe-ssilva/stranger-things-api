@@ -5,154 +5,154 @@
         "name": "Eleven",
         "fullName": "Jane Ives Hopper",
         "actor": "Millie Bobby Brown",
-        "thumb": "https://upload.wikimedia.org/wikipedia/pt/5/52/Eleven_%28Stranger_Things%29.jpg"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508742/strangerthingsapi/Eleven_v37q7q.jpg"
       },
       {
         "id": "2",
         "name": "Billy",
         "fullName": "Billy Hargrove",
         "actor": "Dacre Montgomery",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/6/60/S3Billy.jpg/revision/latest?cb=20190720004254"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508747/strangerthingsapi/S3Billy_o068y9.jpg"
       },
       {
         "id": "3",
         "name": "Mike",
         "fullName": "Michael Wheeler",
         "actor": "Finn Wolfhard",
-        "thumb": "https://i.pinimg.com/736x/88/2e/8d/882e8d20a64c9f08aadd09353e1c073d.jpg"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508741/strangerthingsapi/882e8d20a64c9f08aadd09353e1c073d_f6w4ja.jpg"
       },
       {
         "id": "4",
         "name": "Max",
         "fullName": "Maxine Mayfield",
         "actor": "Sadie Sink",
-        "thumb": "https://pbs.twimg.com/media/Ecri1ceWoAUXPue.png"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508744/strangerthingsapi/Ecri1ceWoAUXPue_ssfslp.png"
       },
       {
         "id": "5",
         "name": "Dustin",
         "fullName": "Dustin Henderson",
         "actor": "Gaten Matarazzo",
-        "thumb": "https://3.bp.blogspot.com/-YXLSaDai7wA/V9hFiVfz2_I/AAAAAAAAD0k/WI8d8dhhKN8u43YXysiohLmVAgtBL9pgQCLcB/s1600/gaten_matarazzo_netflix_stranger_things.png"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508744/strangerthingsapi/gaten_matarazzo_netflix_stranger_things_cdglb3.png"
       },
       {
         "id": "6",
         "name": "Nancy",
         "fullName": "Nancy Wheeler",
         "actor": "Natalia Dyer",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/6/64/Nanccy.png/revision/latest?cb=20200810213319&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508746/strangerthingsapi/Nanccy_gcj35w.png"
       },
       {
         "id": "7",
         "name": "Steve",
         "fullName": "Steve Harrington",
         "actor": "Joe Keery",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/1/12/Steve_S3.jpg/revision/latest/top-crop/width/360/height/450?cb=20200517182841&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508747/strangerthingsapi/Steve_S3_lzhuei.jpg"
       },
       {
         "id": "8",
         "name": "Will",
         "fullName": "Will Byers",
         "actor": "Noah Schnapp",
-        "thumb": "https://i.pinimg.com/originals/58/60/44/586044983da8333dd6a84fe58801fb53.jpg"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508741/strangerthingsapi/586044983da8333dd6a84fe58801fb53_t7zycs.jpg"
       },
       {
         "id": "9",
         "name": "Jim",
         "fullName": "Jim Hopper",
         "actor": "David Harbour",
-        "thumb": "https://upload.wikimedia.org/wikipedia/en/0/08/JimHopperST.png"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508743/strangerthingsapi/JimHopperST_csz5au.png"
       },
       {
         "id": "10",
         "name": "Robin",
         "fullName": "Robin",
         "actor": "Maya Hawke",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/f/fc/Robin_S3.png/revision/latest?cb=20200517171649&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508750/strangerthingsapi/Robin_S3_wihv5p.pngr"
       },
       {
         "id": "11",
         "name": "Jonathan",
         "fullName": "Jonathan Byers",
         "actor": "Charlie Heaton",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/8/8e/Jonathan_S3.png/revision/latest?cb=20200915033452"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508748/strangerthingsapi/Jonathan_S3_axwjyu.png2"
       },
       {
         "id": "12",
         "name": "Joyce",
         "fullName": "Joyce Byers",
         "actor": "Winona Ryder",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/7/70/Joyce_S2.png/revision/latest?cb=20200501182443&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508746/strangerthingsapi/Joyce_S2_tao3ek.png"
       },
       {
         "id": "13",
         "name": "Barbara",
         "fullName": "Barbara Holland",
         "actor": "Shannon Purser",
-        "thumb": "https://i.pinimg.com/originals/28/96/74/2896746fcf3bb8bf27f3fa7baf8c1dc9.jpg"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508742/strangerthingsapi/2896746fcf3bb8bf27f3fa7baf8c1dc9_a9no7r.jpg"
       },
       {
         "id": "14",
         "name": "Alexei",
         "fullName": "Dr. Alexei",
         "actor": "Alec Utgoff",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/a/ad/Alexei.JPG/revision/latest?cb=20190705023926"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508742/strangerthingsapi/Alexei.JPG_srrmqp.jpg"
       },
       {
         "id": "15",
         "name": "Suzie",
         "fullName": "Suzie",
         "actor": "Gabriella Pizzolo",
-        "thumb": "http://pm1.narvii.com/7367/92242d1cc39f368700ea1057a5ed0a7aa78d3a06r1-350-350v2_uhq.jpg"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508741/strangerthingsapi/92242d1cc39f368700ea1057a5ed0a7aa78d3a06r1-350-350v2_uhq_zinztm.jpg"
       },
       {
         "id": "16",
         "name": "Lucas",
         "fullName": "Lucas Sinclair",
         "actor": "Caleb McLaughlin",
-        "thumb": "https://i.pinimg.com/736x/5c/0c/cf/5c0ccf9dd3a3580ef7ced01bfffbcfd3.jpg"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508741/strangerthingsapi/5c0ccf9dd3a3580ef7ced01bfffbcfd3_tkiemn.jpg"
       },
       {
         "id": "17",
         "name": "Bob",
         "fullName": "Bob Newby",
         "actor": "Sean Astin",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/8/81/Bob_Newby.png/revision/latest?cb=20171028184324&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508742/strangerthingsapi/Bob_Newby_qdpkss.pngr"
       },
       {
         "id": "18",
         "name": "Karen",
         "fullName": "Karen Wheeler",
         "actor": "Cara Buono",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/1/19/Karen_003.png/revision/latest?cb=20210423031048&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508745/strangerthingsapi/Karen_003_ahiufu.png"
       },
       {
         "id": "19",
         "name": "Erica",
         "fullName": "Erica Sinclair",
         "actor": "Priah Ferguson",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/c/c6/3%C2%BA_Temporada_.jpg/revision/latest?cb=20200702173557&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508742/strangerthingsapi/3%C2%BA_Temporada__jdt7nv.jpg"
       },
       {
         "id": "20",
         "name": "Dr. Martin Brenner",
         "fullName": "Dr. Martin Brenner",
         "actor": "Matthew Modine",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings/images/4/40/Martin_Brenner_001.png/revision/latest?cb=20160818154124&path-prefix=pt-br"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508746/strangerthingsapi/Martin_Brenner_001_hfnlkx.png"
       },
       {
         "id": "21",
         "name": "Bauman",
         "fullName": "Murray Bauman",
         "actor": "Brett Gelman",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/d/dd/Murray2.jpg/revision/latest?cb=20201103150557"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508745/strangerthingsapi/Murray2_wj1n0n.jpg"
       },
       {
         "id": "22",
         "name": "Mr. Clarke",
         "fullName": "Mr. Clarke",
         "actor": "Randall P. Havens",
-        "thumb": "https://static.wikia.nocookie.net/strangerthings8338/images/a/a1/S03E02-Scott_Clarke.jpg/revision/latest?cb=20190811042348"
+        "thumb": "https://res.cloudinary.com/trig-digital/image/upload/v1627508750/strangerthingsapi/Robin_S3_wihv5p.png"
       }
     ]
 }
