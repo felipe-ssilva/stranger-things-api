@@ -1,5 +1,7 @@
 # Stranger Things - Public Simple API
 
+![Stranger Things - Public Simple API](https://res.cloudinary.com/trig-digital/image/upload/v1627510041/strangerthingsapi/Stranger_Things_logo_uatz3m.png)
+
 ## Tech Stack
 
 - Node.js 10.13.0
